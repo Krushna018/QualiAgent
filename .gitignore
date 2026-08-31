@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+results/*.csv
+data/benchmark_repos/
+data/benchmark_manifest.json
+data/manual_review_600.csv
