@@ -700,39 +700,3 @@ Optional LLM Reasoning
 Evidence-Based Review
 ```
 
-### Reproducible Evaluation
-
-The benchmark generator produces a controlled and repeatable dataset for evaluating the framework.
-
-### Human-in-the-Loop Validation
-
-A stratified 600-item sample provides a mechanism for comparing automated findings against human judgments.
-
----
-
-# 🚀 Future Work
-
-Potential extensions include:
-
-* Evaluation on real-world open-source repositories
-* Additional test-smell detectors
-* Advanced flaky-test detection
-* Cross-file contextual reasoning
-* Larger benchmark datasets
-* LLM model comparison
-* Human–AI agreement analysis
-* CI/CD integration
-* Automated pull-request test-quality feedback
-* Test-quality visualization dashboards
-
----
-
-## 📚 Research Documentation
-
-Additional research methodology and experimental design are available in:
-
-```text
-docs/research_design.md
-```
-
-The document describes the research question, benchmark design, baselines, manual-validation strategy, and evaluation metrics.
