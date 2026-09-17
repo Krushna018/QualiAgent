@@ -349,8 +349,6 @@ reviewer_notes
 
 Human reviewers can populate `reviewer_label` and `reviewer_notes` to evaluate the correctness of automated classifications.
 
-> **Important:** The project provides the 600-item review *sample*. A claim that "600 findings were manually reviewed" should only be made after the reviewer fields have actually been completed.
-
 ---
 
 # 📈 Evaluation Metrics
@@ -726,40 +724,6 @@ Potential extensions include:
 * CI/CD integration
 * Automated pull-request test-quality feedback
 * Test-quality visualization dashboards
-
----
-
-# 📌 Project Status
-
-**Status: Completed**
-
-The core QualiAgent framework, four-agent pipeline, benchmark generation, repository analysis, optional LLM integration, reviewer logic, evaluation utilities, and automated tests are implemented.
-
-The included benchmark is a **synthetic, reproducible benchmark** intended for controlled experimentation.
-
----
-
-# 👤 Author
-
-## Krushna Tekane
-
-Computer Science & Engineering
-
-**Areas of Interest**
-
-* Artificial Intelligence
-* Machine Learning
-* Software Engineering
-* Multi-Agent Systems
-* AI-Assisted Developer Tools
-
-**GitHub:** [Krushna018](https://github.com/Krushna018)
-
----
-
-# ⭐ If You Find This Project Useful
-
-If this project is useful for research, experimentation, or software-quality analysis, consider giving the repository a ⭐.
 
 ---
 
